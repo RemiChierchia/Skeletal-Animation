@@ -3,7 +3,7 @@
 
 This project draws, thanks to OpenGL, a skeletal animation reading through json files.
 
-At https://www.youtube.com/watch?v=BJqw10MVvpQ&feature=youtu.be&ab_channel=RemiChierchia is possible to see a video of the current last version of the project.
+At: https://www.youtube.com/watch?v=BJqw10MVvpQ&feature=youtu.be&ab_channel=RemiChierchia is possible to see a video of the current last version of the project.
 
 ## Requirements
  - Visual Studio
