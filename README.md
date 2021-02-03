@@ -63,7 +63,7 @@ Linker
       shell32.lib
 ```
 
-# Links
+# Libraries links
  - [GLFW]   (https://www.glfw.org/download.html)
  - [GLEW]   (http://glew.sourceforge.net/)
  - [GLM]    (https://glm.g-truc.net/0.9.9/index.html)
