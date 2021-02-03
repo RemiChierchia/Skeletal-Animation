@@ -30,6 +30,15 @@ In `Depencencies` folder are placed the main libraries to set up the window mana
 The other additional libraries are placed in the `Link to the resources.txt` file. Al the precompiled libraries has `include` and `lib` folders, while `glm` and `json` are header only libraries.
 The `boost` library is the only one that I built.
 
+# Links
+ - [GLFW]   (https://www.glfw.org/download.html)
+ - [GLEW]   (http://glew.sourceforge.net/)
+ - [GLM]    (https://glm.g-truc.net/0.9.9/index.html)
+ - [SOIL2]  (https://github.com/SpartanJ/SOIL2)
+ - [ASSIMP] (http://assimp.org/)
+ - [JSON]   (https://github.com/nlohmann/json)
+ - [BOOST]  (https://www.boost.org/)
+ 
 # Usage
 
 # How-to
