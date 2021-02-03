@@ -1,15 +1,11 @@
 # COMPUTER GRAPHICS PROJECT
 # Skeletal Animation
 
-This project draws a skeletal animation thanks to OpenGL.
+This project draws, thanks to OpenGL, a skeletal animation reading through json files.
 
 # Requirements
- - Python 3
- - 10GB disk storage
- - 2GB free RAM
- - Virtualbox
- - Vagrant (https://www.vagrantup.com)
- - Internet
+ - Visual Studio
+ - GPU
  
 # Project structure
 ```
@@ -28,8 +24,10 @@ Skeletal Animation/
 Skeletal Animation.sln
 ```
  
-## Installation
-TODO: Describe the installation process
+## Libraries installation
+The 'bin' folder contains the 'Debug' folders that Visual Studio makes. To get ASSIMP library working correctly is important to put 'assimp-vc142-mtd.dll' file in the 'bin/Win32/Debug/' directory.
+In 'Depencencies' folder are placed the main libraries to set up the window management with OpenGL. Inside both of them there are the 'include' and 'lib' folders to properly include in Visual Studio properties. I built the project based on 32-bit architecture, so refer to 'Win32' folders.
+The file "Link to the resources.txt".
 ## Usage
 TODO: Write usage instructions
 # How-to
