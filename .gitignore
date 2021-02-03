@@ -360,3 +360,13 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+
+# Provee
+bin/
+Dependencies/
+Skeletal Animation/res/assimp/
+Skeletal Animation/res/boost/
+Skeletal Animation/res/glm/
+Skeletal Animation/res/json/
+Skeletal Animation/res/SOIL2/
