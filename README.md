@@ -1,7 +1,7 @@
 # COMPUTER GRAPHICS PROJECT
 # Skeletal Animation
 
-This repository contains the Vagrant files required to run the virtual lab environment used in the DNCS course.
+This project draws a skeletal animation thanks to OpenGL.
 
 # Requirements
  - Python 3
@@ -14,10 +14,17 @@ This repository contains the Vagrant files required to run the virtual lab envir
 # Project structure
 ```
 bin/
-    intermediates
-    Win32
-Dependencies
-Skeletal Animation
+    intermediates/Win32/Debug
+    Win32/Debug
+Dependencies/
+             GLEW
+             GLFW
+Skeletal Animation/
+                   res/
+                       shaders
+                       objects
+                       Link to the resources.txt
+                   src/
 Skeletal Animation.sln
 ```
  
