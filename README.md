@@ -32,6 +32,7 @@ The `boost` library is the only one that I built.
 
 ## Project properties
 ```
+Platform Win32 
 C/C++
   General
     Additional directories:
