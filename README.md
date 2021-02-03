@@ -35,8 +35,9 @@ The `boost` library is the only one that I built.
 ## Project properties
 ```
 Platform Win32 
-C/C++
-  General
+
+C/C++:
+  General:
     Additional directories:
       res\boost;
       res\json\include;
@@ -45,15 +46,15 @@ C/C++
       res;
       $(SolutionDir)Dependencies\GLEW\include;
       $(SolutionDir)Dependencies\GLFW\include;
-Linker
-  General
+Linker:
+  General:
     Additional directories:
       res\boost\lib;
       res\SOIL2\lib;
       res\assimp\lib;
       $(SolutionDir)Dependencies\GLEW\lib\Release\Win32;
       $(SolutionDir)Dependencies\GLFW\lib-vc2019;
-  Input
+  Input:
     Additional dependences:
       soil2.lib;
       assimp-vc142-mtd.lib;
