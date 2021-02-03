@@ -363,8 +363,9 @@ FodyWeavers.xsd
 
 
 # Provee
-bin/
-Dependencies/
+# bin/
+# Dependencies/
+
 Skeletal Animation/res/assimp/
 Skeletal Animation/res/boost/
 Skeletal Animation/res/glm/
