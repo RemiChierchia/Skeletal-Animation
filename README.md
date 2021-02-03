@@ -32,6 +32,9 @@ In `Depencencies` folder are placed the main libraries to set up the window mana
 The other additional libraries are placed in the `Link to the resources.txt` file. Al the precompiled libraries has `include` and `lib` folders, while `glm` and `json` are header only libraries.
 The `boost` library is the only one that I built.
 
+## Usage
+Make sure to have Visual Studio installed, I have used the version 2019, and a GPU that supports GLFW and GLEW libraries. Nowadays GPUs are all suitable to this application, but is always better to double check.
+
 ## Project properties
 ```
 Platform Win32 
