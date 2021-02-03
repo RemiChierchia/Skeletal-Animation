@@ -72,7 +72,7 @@ Linker
  - [JSON]   (https://github.com/nlohmann/json)
  - [BOOST]  (https://www.boost.org/)
 
-## Credits and References
+# Credits and References
 - https://open.gl/
 - https://docs.gl/
 - http://ogldev.org/www/tutorial38/tutorial38.html
@@ -81,6 +81,6 @@ Linker
 - https://www.3dgep.com/loading-and-animating-md5-models-with-opengl/
 - https://learnopengl.com/
 
-## License
+# License
 TODO: Write license
 
