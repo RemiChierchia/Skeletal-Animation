@@ -82,5 +82,5 @@ Linker
 - https://learnopengl.com/
 
 # License
-TODO: Write license
+TODO.
 
