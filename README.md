@@ -71,19 +71,15 @@ Linker
  - [ASSIMP] (http://assimp.org/)
  - [JSON]   (https://github.com/nlohmann/json)
  - [BOOST]  (https://www.boost.org/)
- 
-# Usage
 
-# How-to
-
-
-## Credits
-
-# Notes and References
-- https://rogerdudler.github.io/git-guide/
-- http://therandomsecurityguy.com/openvswitch-cheat-sheet/
-- https://www.cyberciti.biz/faq/howto-linux-configuring-default-route-with-ipcommand/
-- https://www.vagrantup.com/intro/getting-started/
+## Credits and References
+- https://open.gl/
+- https://docs.gl/
+- http://ogldev.org/www/tutorial38/tutorial38.html
+- https://www.youtube.com/watch?v=W3gAzLwfIP0&list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2&ab_channel=TheCherno
+- http://www.songho.ca/opengl/index.html
+- https://www.3dgep.com/loading-and-animating-md5-models-with-opengl/
+- https://learnopengl.com/
 
 ## License
 TODO: Write license
