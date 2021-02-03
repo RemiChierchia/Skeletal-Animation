@@ -2,7 +2,8 @@
 # Skeletal Animation
 
 This project draws, thanks to OpenGL, a skeletal animation reading through json files.
-\At https://www.youtube.com/watch?v=BJqw10MVvpQ&feature=youtu.be&ab_channel=RemiChierchia is possible to see a video of the current last version of the project.
+
+At https://www.youtube.com/watch?v=BJqw10MVvpQ&feature=youtu.be&ab_channel=RemiChierchia is possible to see a video of the current last version of the project.
 
 ## Requirements
  - Visual Studio
@@ -32,7 +33,9 @@ The other additional libraries are placed in the `Link to the resources.txt` fil
 The `boost` library is the only one that I built.
 
 ## Usage
-Make sure to have Visual Studio installed, I have used the version 2019, and a GPU that supports GLFW and GLEW libraries. Nowadays GPUs are all suitable to this application, but is always better to double check.
+Make sure to have an updated version of Visual Studio installed, I have used the version 2019, and a GPU that supports GLFW and GLEW libraries. Nowadays GPUs are all suitable to this application, but is always better to double check.
+
+At this link: https://drive.google.com/drive/folders/1Bu_FjmvijBDI8gmT7SAmmFQo2Kr3jabN?usp=sharing is possible to access to a .zip which is the entire project as I run it.
 
 ## Project properties
 ```
