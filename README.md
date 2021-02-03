@@ -30,6 +30,38 @@ In `Depencencies` folder are placed the main libraries to set up the window mana
 The other additional libraries are placed in the `Link to the resources.txt` file. Al the precompiled libraries has `include` and `lib` folders, while `glm` and `json` are header only libraries.
 The `boost` library is the only one that I built.
 
+## Project properties
+```
+C/C++
+  General
+    Additional directories:
+      res\boost;
+      res\json\include;
+      res\SOIL2\include;
+      res\assimp\include;
+      res;
+      $(SolutionDir)Dependencies\GLEW\include;
+      $(SolutionDir)Dependencies\GLFW\include;
+Linker
+  General
+    Additional directories:
+      res\boost\lib;
+      res\SOIL2\lib;
+      res\assimp\lib;
+      $(SolutionDir)Dependencies\GLEW\lib\Release\Win32;
+      $(SolutionDir)Dependencies\GLFW\lib-vc2019;
+  Input
+    Additional dependences:
+      soil2.lib;
+      assimp-vc142-mtd.lib;
+      glfw3.lib;
+      glew32s.lib;
+      opengl32.lib;
+      user32.lib;
+      gdi32.lib;
+      shell32.lib
+```
+
 # Links
  - [GLFW]   (https://www.glfw.org/download.html)
  - [GLEW]   (http://glew.sourceforge.net/)
