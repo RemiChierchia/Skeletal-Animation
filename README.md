@@ -11,6 +11,16 @@ This repository contains the Vagrant files required to run the virtual lab envir
  - Vagrant (https://www.vagrantup.com)
  - Internet
  
+# Project structure
+```
+bin/
+    intermediates
+    Win32
+Dependencies
+Skeletal Animation
+Skeletal Animation.sln
+```
+ 
 ## Installation
 TODO: Describe the installation process
 ## Usage
