@@ -373,3 +373,9 @@ Skeletal Animation/res/json/
 Skeletal Animation/res/SOIL2/
 Skeletal Animation/res/objects/boblamp
 Skeletal Animation/res/objects/skeleton
+Skeletal Animation/Dependencies/GLEW/doc
+Skeletal-Animation/Dependencies/GLEW/include
+Skeletal-Animation/Dependencies/GLEW/LICENCE
+Skeletal-Animation/Dependencies/GLFW/include
+Skeletal-Animation/Dependencies/GLFW/lib-vc2019
+
